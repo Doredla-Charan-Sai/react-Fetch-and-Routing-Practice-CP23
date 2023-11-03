@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.main-blog-cont {
+  padding: 20px;
+  width: 100%;
+}
+.main-card-img {
+  width: 100%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
